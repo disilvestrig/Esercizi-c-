@@ -1,3 +1,5 @@
+//Somma 10 numeri interi e comunica la somma dopo averli letti o quando viene inserito lo 0
+
 #include <iostream>
 using namespace std;
 
@@ -20,5 +22,3 @@ int main() {
   }
   cout << "Somma : " << somma ;
 }
- 
- 
